@@ -1,0 +1,8 @@
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\bin\Debug\jogodaforca_alt1.exe.config
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\bin\Debug\jogodaforca_alt1.exe
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\bin\Debug\jogodaforca_alt1.pdb
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\obj\Debug\jogodaforca_alt1.csprojResolveAssemblyReference.cache
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\obj\Debug\jogodaforca_alt1.MainForm.resources
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\obj\Debug\jogodaforca_alt1.csproj.GenerateResource.Cache
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\obj\Debug\jogodaforca_alt1.exe
+U:\projetos TPA\jogodaforca_alt1\jogodaforca_alt1\obj\Debug\jogodaforca_alt1.pdb
